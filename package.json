@@ -1,6 +1,6 @@
 {
   "name": "@patchworkjs/queries",
-  "version": "1.0.0",
+  "version": "1.0.30",
   "description": "patchworkjs/queries",
   "main": "./dist/index.js",
   "dependencies": {
